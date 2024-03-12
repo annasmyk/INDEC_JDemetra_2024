@@ -1,2 +1,2 @@
 # INDEC_JD-_2024
-Weebinar on JDemetra+
+Webinar on JDemetra+ in March 2024
